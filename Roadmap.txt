@@ -1,0 +1,5 @@
+Roadmap
+- Get proficiency with Docker images of AirFlow
+- Get used with how AirFlow works
+- Get used with DAGs for the existing jobs
+

@@ -1,3 +1,7 @@
-Mission
-
+Mission: 
 Apply Machine Learning algoritms to AirFlow DAGs to get it more autonomous.
+
+Objectives: 
+- Reduce efforts supporting recurrent issues with jobs automated in AirFlow
+- Reduce efforts to apply automation to new jobs
+- Get Airflow DAGs as most autonomous as possible
